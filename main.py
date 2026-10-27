@@ -1,0 +1,3 @@
+print("man")
+
+print("good")
